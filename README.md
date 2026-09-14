@@ -27,6 +27,6 @@ Neste repositório estarei aprendendo sobre Docker Fundamentals.
 
 | | |
 | :--- | :--- |
-| Pois bem, tenho uma [[Oferta Especial]] para [[Corações]] Solitários como você!!<ul><li>VAMOS AGARRAR [[ESSE ENSINO DELICIOSO]]</ul></li><ul><li>AGARRAR E IRMOS EM DIREÇÃO AO [[CÉU]]!! TÃO ALTO TÃO ALTO QUE SEREMOS [[Hyperlink bloqueado]]</ul></li><ul><li>ENTÃO [[NÃO SEJA UMA PEQUENA ESPONJA]] E VAMOS APRENDER ESSE [[DOCKER]]!!!! | <div align="center"><img src="https://media.tenor.com/nFTKVSXNHx8AAAAi/spamton-deltarune.gif" width="150px"><br>BIG!!</div> |
+| Pois bem, tenho uma [[Oferta Especial]] para [[Corações]] Solitários como você!!<ul><li>VAMOS AGARRAR [[ESSE ENSINO DELICIOSO]]</ul></li><ul><li>AGARRAR E IRMOS EM DIREÇÃO AO [[CÉU]]!! TÃO ALTO TÃO ALTO QUE SEREMOS [[Hyperlink bloqueado]]</ul></li><ul><li>ENTÃO [[NÃO SEJA UMA PEQUENA ESPONJA]] E VAMOS APRENDER ESSE [[DOCKER]]!!!! | <div align="center"><img src="https://media.tenor.com/8x1FW_yWrYIAAAAi/spamton-deltarune.gif" width="150px"><br>BIG!!</div> |
 
 </div>
