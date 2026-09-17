@@ -122,3 +122,89 @@ Por fim, verifique se o Docker foi instalado corretamente:
 ---
 
 <br><br>
+
+<h3 align="center">Demonstração:</h3>
+
+<br><br>
+
+
+<div align="right">
+    <p>SÓ PRA VOCÊ SABER EU[[Pobre Miserável]] USO O CODESPACE!!!</p>
+    <img align="right" src="https://media.tenor.com/aGOWJrqMLEMAAAAi/spamton-g-spamton.gif" width="150px">
+</div>
+
+<div align="center">
+    <h3>VEJA [[Atenciosamente]] O EXEMPLO QUE FIZ!!!</h3>
+</div>
+
+<div>
+    <img align="center" src="teste_docker(1) .jpg" width="500px">
+    ACESSE <a href="./teste_docker(1) .jpg">A IMAGEM COMPLETA</a>
+    <p> NESTA [[Jpg]] EU CRIEI A IMAGEM PYTHON E FIZ COM QUE O DOCKER BUILDASSE.</p>
+</div>
+
+> Para buildar a imagem que você quer, apenas digite no terminal: $ docker build -t python test .
+> 
+> Em caso de estar utilizando o Github Codespace (Recomendo para quem não possui um notebook com muito disco disponível ou um ambiente virtual adequado), você pode apenas selecionar o código que você deseja buildar e clicar na opção "Build Image"
+
+<br><br>
+
+<div>
+    <img align="center" src="teste_funcional_docker(1).jpg" width="500px">
+    ACESSE <a href="./teste_funcional_docker(1).jpg">A IMAGEM COMPLETA</a>
+    <p>SIM!!! AGORA NESTA [[Jpg]] EU ESTOU MOSTRANDO ALGUNS [[Codes]] E COMO FICARIA O SEU [[Docker Gostoso]] APÓS CRIAR A [[Imagem]]!!!</p>
+</div>
+
+<br>
+
+<details>
+<summary><b>[[Hyperlink bloqueado]]</b></summary>
+
+> O QUÊ??!! VOCÊ QUER APRENDER OS [[Codes]] DO [[Docker]]??!! SUA [[Pequena Esponja]] É ASSIM QUE SE FALA!!!
+>
+> FAÇAMOS UM [[Acordo Gostosinho]] PARA IRMOS JUNTOS SER GRANDES!!! GRANDES!!!! GRANDES!!!!!
+>
+> Aceite o acordo.
+
+</details>
+
+<br><br>
+
+<details>
+<summary><b>ACORDO</b></summary>
+
+> ENTÃO ACORDO É ACORDO!!!!
+>
+> FIQUE AGORA COM OS [[Codes]] DO DOCKER!!! HAHAHAEHAHEAEHA!!!
+>
+> <img align="right" src="https://media.tenor.com/Q2-C8kWf6FMAAAAi/spamton-glitch.gif" width="130px">
+>
+
+<br><br>
+
+> $ docker run help
+>
+> É um help e lista todos os comandos que podem ajudar a usar o Docker
+
+
+> $ docker images / docker image
+>
+> Lista suas imagens
+
+
+> $ docker image rm [nome da imagem]
+>
+> Remove uma imagem específica
+
+
+> $ docker ps -a
+>
+> Lista todos os contêineres existentes (em execução ou não)
+
+> $ docker rm [nome do contêiner]
+>
+> Remove um contêiner específico (que não estiver em execução)
+
+> $ docker stop [nome do contêiner]
+>
+> Parar um contêiner específico
