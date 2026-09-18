@@ -1,0 +1,15 @@
+# This is a sample docker-compose file for a Python application
+
+
+# Esse comando é usado para definir a versão do Docker Compose que está sendo utilizada.
+version: '3.8'
+
+# Esse comando do services é usado para definir os serviços que serão executados no Docker Compose. No caso, estou definindo um serviço chamado "jupyter".
+services:
+  jupyter:
+      image: jupyter/scipy-notebook:latest
+      # Esse comando é usado para definir o nome do serviço que está sendo criado. No caso, o serviço é chamado de "jupyter".
+      volumes:
+        - ./notebooks:/home/Luke/work
+
+        # Em breve terminarei os outros comandos..

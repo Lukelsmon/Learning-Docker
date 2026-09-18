@@ -74,6 +74,19 @@ Neste repositório estarei aprendendo sobre Docker Fundamentals.
 
 - <img src="https://media.datacamp.com/cms/google/ad_4nxf5_3qkh7k8swztlk3wh_gpxnkfyzs9kk-pbr61uovfsmbm0ag2cunhl3i9y5mvak18hqlchfhjtokjhwh3yxs9c-h9oreqv842m5_wkzq8vbq2up0grndzf0e2nh2jws-nqzrbfeb_r_czu6uxfnvy9e4s.png" width="500">
 
+<div align="right">
+    <p>[[GRANDE]]
+    <img src="https://media1.tenor.com/m/u4C5IVylOgAAAAAC/spamton-jump.gif" width="50px"> 
+</div>
+
+- Requirements.txt - Esse arquivo lista as bibliotecas Python que serão instaladas dentro do seu contêiner do Docker.
+
+- Docker Compose - Ferramenta para gerenciar aplicativos com vários contêineres. Em um projeto de ciência de dados, você poderá precisar de contêineres separados para diferentes componentes, como: notebook Jupyter, banco de dados e uma visualização de dados.
+
+> Arquivo: docker-compose.yml
+>
+> Um arquivo YAML é um documento de texto com extensão .yml ou .yaml usado para organizar e armazenar dados de forma estruturada.
+
 </details>
 
 ---
@@ -226,3 +239,7 @@ Por fim, verifique se o Docker foi instalado corretamente:
 > $ docker stop [nome do contêiner]
 >
 > Parar um contêiner específico
+
+> $ docker build
+>
+> Inicia o processo de criação de uma imagem do Docker
