@@ -56,6 +56,24 @@ Neste repositório estarei aprendendo sobre Docker Fundamentals.
 
 **Observação: você não precisará instalar o Python em seu computador. Ele funcionará no ambiente do Docker para conter o Python que executará o seu código.**
 
+<br>
+
+**Principais conceitos:**
+
+- Contêineres - Os contêineres são unidades leves e isoladas que empacotam um aplicativo junto com todas as suas dependências.
+
+- Imagens - Uma imagem do Docker é um modelo somente leitura usado para criar contêineres. Ele inclui tudo o que é necessário para executar um aplicativo, como o código, as bibliotecas e as ferramentas do sistema.
+
+- Dockerfile - Um Dockerfile é um arquivo de texto que contém instruções sobre como criar uma imagem do Docker.
+
+- DockerHub - é um registro público no qual você pode armazenar, compartilhar e fazer download de imagens do Docker. Ele serve como um repositório central para imagens do Docker. 
+
+- Volumes - Os volumes são uma maneira de manter os dados gerados e usados nos contêineres do Docker. Eles permitem que você gerencie e armazene dados fora do ciclo de vida do contêiner.
+
+- Redes - As redes do Docker facilitam a comunicação entre os contêineres. Cada contêiner pode ser conectado a uma ou mais redes, permitindo que eles interajam e compartilhem dados com segurança.
+
+- <img src="https://media.datacamp.com/cms/google/ad_4nxf5_3qkh7k8swztlk3wh_gpxnkfyzs9kk-pbr61uovfsmbm0ag2cunhl3i9y5mvak18hqlchfhjtokjhwh3yxs9c-h9oreqv842m5_wkzq8vbq2up0grndzf0e2nh2jws-nqzrbfeb_r_czu6uxfnvy9e4s.png" width="500">
+
 </details>
 
 ---
